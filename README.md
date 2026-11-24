@@ -1,5 +1,18 @@
 # Legion Zone 2.0.18.260907 — English builds
 
+**[⬇ Download the APKs](https://github.com/b0r1s-69/LegionZone-EN/releases/tag/v2.0.18.260907-en)**
+
+| Variant | APK | SHA-256 |
+|---|---|---|
+| 1 — clean | [LegionZone_EN_v1.apk](https://github.com/b0r1s-69/LegionZone-EN/releases/download/v2.0.18.260907-en/LegionZone_EN_v1.apk) | `e25294f8…68ea8` |
+| 2 — web views translated | [LegionZone_EN_v2.apk](https://github.com/b0r1s-69/LegionZone-EN/releases/download/v2.0.18.260907-en/LegionZone_EN_v2.apk) | `9574feeb…81ab27` |
+
+| | |
+|---|---|
+| ![Consent dialog](docs/consent-en.png) | ![Me tab](docs/me-tab-en.png) |
+| ![Settings](docs/settings-en.png) | ![Leaderboard, variant 2](docs/leaderboard-en-v2.png) |
+
+
 Two installable variants, same package, same signing key, same versionCode. They replace each other
 with `adb install -r` (or a normal APK install) — pick the one you want, no uninstall needed between
 them.
